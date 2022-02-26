@@ -1,0 +1,14 @@
+{
+    "tablas" : [
+		{
+            "title": "Designaciones Mesianicas",
+            "subtitle": "Designaciones que hablan sobre la venida del Mesias",
+            "path": "designacionesmesianicas"
+        },
+		{
+            "title": "Parabolas de Jesus",
+            "subtitle": "Una seleccion de las parabolas de Jesus",
+            "path": "parabolasdejesus"
+        }
+    ]
+}
